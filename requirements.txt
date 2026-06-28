@@ -1,0 +1,14 @@
+crewai==1.14.7
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+chromadb
+sentence-transformers
+youtube-transcript-api
+google-api-python-client
+python-dotenv
+tiktoken
+pydantic
+rich
